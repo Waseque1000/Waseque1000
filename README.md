@@ -16,3 +16,6 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Waseque1000&theme=dark" alt="GitHub Streak" /></a>
+
+
+![](https://github-stats-alpha.vercel.app/api?username=Waseque1000&cc=22272e&tc=37BCF6&ic=fff&bc=0000)
