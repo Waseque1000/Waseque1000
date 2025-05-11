@@ -39,9 +39,11 @@ I'm a Junior Full-Stack Web Developer passionate about building web applications
 
 Feel free to check out my repositories below and contribute or collaborate with me on exciting projects.
 
+ 
 ## 📫 How to reach me:
-- [Email](waseque.ndc@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/waseque-arafat-5b479a268/)
-- [X](https://x.com/WasequeWab)
+- 📧 [Email](mailto:waseque.ndc@gmail.com)
+- 🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/waseque-arafat-5b479a268/)
+- 🐦 [![X (Twitter)](https://img.shields.io/badge/X-1DA1F2?logo=twitter&logoColor=white)](https://x.com/WasequeWab)
+
 
 ![](https://github-stats-alpha.vercel.app/api?username=Waseque1000&cc=22272e&tc=37BCF6&ic=fff&bc=0000)
